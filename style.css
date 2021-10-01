@@ -1,0 +1,37 @@
+h1 {
+    background-color: tomato;
+    color: RED
+}
+h3 {
+    background-color: rgb(245, 69, 151);
+    color:lightgreen;
+}
+h4 {
+    color:rgb(204, 109, 32);
+}
+button {
+    margin: 15px;
+    color:black;
+    padding: 6px 12px;
+    background-image: linear-gradient(orange, green);
+    border: 5px solid yellow;
+    border-radius: 15px;
+}h1 {
+    background-color: tomato;
+    color: RED
+}
+h3 {
+    background-color: rgb(245, 69, 151);
+    color:lightgreen;
+}
+h4 {
+    color:rgb(204, 109, 32);
+}
+button {
+    margin: 15px;
+    color:black;
+    padding: 6px 12px;
+    background-image: linear-gradient(orange, green);
+    border: 5px solid yellow;
+    border-radius: 15px;
+}
